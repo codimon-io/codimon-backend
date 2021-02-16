@@ -1,0 +1,4 @@
+{
+  "configFile": "./src/frameworks/db-migrate/database.json",
+  "migrations-dir":"./src/frameworks/db-migrate/migrations"
+}
